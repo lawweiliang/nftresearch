@@ -12,6 +12,7 @@ Buying Land
 Play to earn
 - Axie Infinity
 - Aavegotchi
+- Illuvium
 
 Rewards
 - Chilliz
